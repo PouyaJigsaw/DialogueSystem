@@ -1,0 +1,2 @@
+key,emotion,default_path,left_path,right_path,blink_path,idleloop_time,blink_time
+i_default,Default,/Users/pouyapournasir/IdeaProjects/threading/JACKEL/IDLE_01.png,/Users/pouyapournasir/IdeaProjects/threading/JACKEL/IDLE_03.png,/Users/pouyapournasir/IdeaProjects/threading/JACKEL/IDLE_02.png,/Users/pouyapournasir/IdeaProjects/threading/JACKEL/IDLE_04.png,10,0.5

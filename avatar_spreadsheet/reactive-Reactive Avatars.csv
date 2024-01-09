@@ -1,0 +1,4 @@
+key,emotion,reaction_path,reaction_time,blink_path,blink_time
+r_happy,Happy,/Users/pouyapournasir/IdeaProjects/threading/JACKEL/IDLE_17.png,2,/Users/pouyapournasir/IdeaProjects/threading/JACKEL/IDLE_20.png,0.5
+r_sad,Sad,/Users/pouyapournasir/IdeaProjects/threading/JACKEL/IDLE_09.png,2,/Users/pouyapournasir/IdeaProjects/threading/JACKEL/IDLE_12.png,0.5
+r_angry,Angry,/Users/pouyapournasir/IdeaProjects/threading/JACKEL/IDLE_21.png,2,/Users/pouyapournasir/IdeaProjects/threading/JACKEL/IDLE_24.png,0.5

@@ -1,0 +1,5 @@
+key,btn_num,btn1_title,btn2_title,btn_title,text,random,wipe_with_button,wipe_time,wait_before_start
+start_q_s,1,None,None,Start,"Hey, I am Jackal! It is amazing that we can work together to save lives, eh? So the operation is we have to check and scan different equipment in the building while checking the amount of methane by logging it so people outside can have a better understanding of the situation. Shall we start?",FALSE,TRUE,None,5
+congrats,0,None,None,None,Woohoo!,None,FALSE,5,0
+choice,2,Yes,No,None,Are you sure you want to start?,None,TRUE,None,0
+sorry,0,None,None,None,sorry to hear that!,None,FALSE,5,0

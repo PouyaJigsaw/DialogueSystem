@@ -1,0 +1,3 @@
+key,emotion,default_path,talking_path,talking_time,interval_time,blink_path,blink_countmax
+t_default,default,/Users/pouyapournasir/IdeaProjects/threading/JACKEL/IDLE_01.png,/Users/pouyapournasir/IdeaProjects/threading/JACKEL/IDLE_05.png,0.5,1.5,/Users/pouyapournasir/IdeaProjects/threading/JACKEL/IDLE_04.png,3
+t_sad,sad,/Users/pouyapournasir/IdeaProjects/threading/JACKEL/IDLE_09.png,/Users/pouyapournasir/IdeaProjects/threading/JACKEL/IDLE_13.png,0.5,1.5,/Users/pouyapournasir/IdeaProjects/threading/JACKEL/IDLE_12.png,3
